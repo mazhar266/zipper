@@ -27,6 +27,13 @@ This is an OpenSource REST API enabled file zipping MicroService.
 - Maintain PEP8 convension
 - Check your code using pylint
 
+## How to use
+
+To get the zip file of `file_url1.png`, `file_url2.png` and `file_url3.png`, send a request like this:
+`BASE_URL/api/v1/zip?file=file_url1.png&file=file_url2.png&file=file_url3.png`.
+Example on my localhost:
+`http://localhost:5000/api/v1/zip?file=file_url1.png&file=file_url2.png&file=file_url3.png`
+
 ### Credits
 
 - Mazhar Ahmed - [github.com/mazhar266](https://github.com/mazhar266)
