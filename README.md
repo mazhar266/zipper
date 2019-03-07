@@ -6,7 +6,7 @@ This is an OpenSource REST API enabled file zipping MicroService.
 
 - Python 3.6 or later
 - Python Flask
-- Linux server with `zip` installed
+- Linux server with `zip` and `wget` installed
 
 ### How to run
 

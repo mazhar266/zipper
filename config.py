@@ -8,6 +8,6 @@ SETTINGS = {
     },
     "BASE_URL": "http://localhost:5000",
 
-    "ZIP_DIR": os.path.basename('zips'),
+    "ZIP_FOLDER": os.path.basename('zips'),
     "CACHE_FOLDER": os.path.basename('cache'),
 }
