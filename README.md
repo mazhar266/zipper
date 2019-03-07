@@ -18,6 +18,7 @@ This is an OpenSource REST API enabled file zipping MicroService.
 
 ### TODO
 
+- Implement expiring token based auth
 - Implement datastores
 
 ### Contribution Guideline
